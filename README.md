@@ -1,2 +1,1 @@
-# uims
-University Information Management System (UIMS)
+# University Information Management System (UIMS)
