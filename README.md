@@ -1,1 +1,1 @@
-# University Information Management System (UIMS)
+# Inventory Management System (UIMS)
